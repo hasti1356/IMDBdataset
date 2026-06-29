@@ -20,3 +20,4 @@ jupyter notebook IMDBDataset.ipynb
 - Vocabulary capped at 10,000 words (`num_words=10000`)
 - Intended as a learning exercise, not production-ready
 - See `requirements.txt` for pinned dependency versions
+- Keras IMDB data is downloaded automatically on first notebook run
